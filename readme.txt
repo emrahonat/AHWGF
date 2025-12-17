@@ -1,16 +1,16 @@
-============================================================================
-Adaptive Hybrid Wavelet-Goldstein Filter for InSAR Interferogram Despeckling
-============================================================================
+==========================================================================
+Adaptive Hybrid Wavelet-Goldstein Filter for InSAR Interferogram Denoising
+==========================================================================
 
 Overview
 ---------
 This repository currently includes only the main.m file.
 The purpose of main file is to provide an overview of the academic work and its implementation framework.
-All MATLAB files related to the interferogram despeckling algorithms developed in this study will be uploaded after the corresponding paper is accepted for publication.
+All MATLAB files related to the interferogram denoising algorithms developed in this study will be uploaded after the corresponding paper is accepted for publication.
 
 Contents
 --------
-main.m: Demonstrates the general structure of the interferogram despeckling process.
+main.m: Demonstrates the general structure of the interferogram denoising process.
 Additional MATLAB scripts and functions will be made publicly available after the paper’s acceptance.
 
 Usage
